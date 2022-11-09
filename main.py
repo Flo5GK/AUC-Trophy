@@ -89,8 +89,8 @@ def get_info(stdscr):
         name = get_str_utf8(stdscr,"Quel est le nom de l'évent ?\n")
         if name.lower() == "ex":
             return False
-        else:
-            break
+        elif '"' in name:
+            name = name.replace('"','\"')
     while True:
         stdscr.clear()
         stdscr.addstr("Quel sera sa description ?\n")
