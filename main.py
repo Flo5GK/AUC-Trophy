@@ -4,7 +4,7 @@ import pyperclip
 
 """
 NOTE: permettre de quitter en appuyant sur échap et pas en écrivant ex
-        supporter les caractères problématique : (", /, ' etc)
+        supporter les caractères problématique : (/ etc)
 """
 
 item = None
@@ -87,10 +87,15 @@ def get_info(stdscr):
 
         global name
         name = get_str_utf8(stdscr,"Quel est le nom de l'évent ?\n")
+
         if name.lower() == "ex":
             return False
-        elif '"' in name:
-            name = name.replace('"','\"')
+        elif '"' in name or '\'' in name:
+            if '"' in name:
+                name = name.replace('"','\\\\"')
+            if '\'' in name:
+                name = name.replace("'","\\'")
+            break
     while True:
         stdscr.clear()
         stdscr.addstr("Quel sera sa description ?\n")
@@ -146,7 +151,6 @@ def translate(item:str, name:str, lore:list):
     commande += "'[{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"Objet Importable\",\"italic\":false,\"color\":\"gold\"},{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"⚠ Ne pas utiliser ⚠ \",\"italic\":false,\"color\":\"red\"},{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]']},Enchantments:[{id:infinity,lvl:1}],HideFlags:1} 1"
 
     return commande
-
 def historique(stdscr):
     list_commande = []
     with open("historique.txt", "r", encoding="utf-8") as file:
