@@ -24,25 +24,27 @@ class Menu:
         self.height = len(options) + 2
 
     def construct(self, stdscr):
-        stdscr.clear()
+        try:
+            stdscr.clear()
 
-        if self.state > len(self.options): self.state = len(self.options)
-        elif self.state < 1: self.state = 1
+            if self.state > len(self.options): self.state = len(self.options)
+            elif self.state < 1: self.state = 1
 
-        stdscr.addstr(u'\u250C' + u'\u2500'*(self.width-2) + u'\u2510' + '\n')
+            stdscr.addstr(u'\u250C' + u'\u2500'*(self.width-2) + u'\u2510' + '\n')
 
-        for index, option in enumerate(self.options):
-            
-            if index + 1 == self.state:
-                stdscr.addstr(u'\u2502')
-                stdscr.addstr(option, curses.color_pair(1))
-                stdscr.addstr(" "*(self.width - len(option) - 2) + u'\u2502' + '\n')
-            else:
-                stdscr.addstr(u'\u2502' + option)
-                stdscr.addstr(" "*(self.width - len(option) - 2) + u'\u2502' + '\n')
+            for index, option in enumerate(self.options):
+                
+                if index + 1 == self.state:
+                    stdscr.addstr(u'\u2502')
+                    stdscr.addstr(option, curses.color_pair(1))
+                    stdscr.addstr(" "*(self.width - len(option) - 2) + u'\u2502' + '\n')
+                else:
+                    stdscr.addstr(u'\u2502' + option)
+                    stdscr.addstr(" "*(self.width - len(option) - 2) + u'\u2502' + '\n')
 
-        stdscr.addstr(u'\u2514' + u'\u2500'*(self.width-2) + u'\u2518' + '\n')
-
+            stdscr.addstr(u'\u2514' + u'\u2500'*(self.width-2) + u'\u2518' + '\n')
+        except:
+            raise Exception("\u001b[31mVous avez écraser mon joli menu ! :(((\033[0m")
 def create_obj(stdscr):
 
     if not get_info(stdscr):
@@ -262,8 +264,8 @@ def main(stdscr):
     
     stdscr.keypad(True)
 
-    stdscr.addstr("Bienvenue dans le AUC Trophy\nAppuyez sur n'importe quel touche")
-    if stdscr.getch() == curses.KEY_RESIZE:
+    # stdscr.addstr("Bienvenue dans le AUC Trophy\nAppuyez sur n'importe quel touche")
+    if curses.is_term_resized(0,0) == True:
         curses.resize_term(*stdscr.getmaxyx())
         stdscr.clear()
         stdscr.refresh()
