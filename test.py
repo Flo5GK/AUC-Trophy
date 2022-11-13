@@ -11,5 +11,5 @@ while True:
     if resize is True:
         y, x = screen.getmaxyx()
         screen.clear()
-        curses.resizeterm(y, x)
+        curses.resize_term(y, x)
         screen.refresh()
