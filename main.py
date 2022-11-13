@@ -262,6 +262,11 @@ def main(stdscr):
     
     stdscr.keypad(True)
 
+    if stdscr.getch() == curses.KEY_RESIZE:
+        curses.resize_term(*stdscr.getmaxyx())
+        stdscr.clear()
+        stdscr.refresh()
+
     curses.init_pair(1, curses.COLOR_BLACK, curses.COLOR_WHITE)
     curses.init_pair(2, curses.COLOR_WHITE, curses.COLOR_BLACK)
 

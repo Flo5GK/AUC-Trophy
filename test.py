@@ -1,5 +1,15 @@
-name = 'l\"évent'
+# Initialize the screen
+import curses
 
-name = name.replace('"','\\"')
+screen = curses.initscr()
 
-print(name)
+# Check if screen was re-sized (True or False)
+while True:
+    resize = curses.is_term_resized(y, x)
+
+    # Action in loop if resize is True:
+    if resize is True:
+        y, x = screen.getmaxyx()
+        screen.clear()
+        curses.resizeterm(y, x)
+        screen.refresh()
