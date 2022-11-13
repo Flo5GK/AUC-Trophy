@@ -4,7 +4,7 @@ import pyperclip
 
 """
 NOTE: permettre de quitter en appuyant sur échap et pas en écrivant ex
-        supporter les caractères problématique : (", /, ' etc)
+        supporter les caractères problématique : (/ etc)
 """
 
 item = None
@@ -24,25 +24,27 @@ class Menu:
         self.height = len(options) + 2
 
     def construct(self, stdscr):
-        stdscr.clear()
+        try:
+            stdscr.clear()
 
-        if self.state > len(self.options): self.state = len(self.options)
-        elif self.state < 1: self.state = 1
+            if self.state > len(self.options): self.state = len(self.options)
+            elif self.state < 1: self.state = 1
 
-        stdscr.addstr(u'\u250C' + u'\u2500'*(self.width-2) + u'\u2510' + '\n')
+            stdscr.addstr(u'\u250C' + u'\u2500'*(self.width-2) + u'\u2510' + '\n')
 
-        for index, option in enumerate(self.options):
-            
-            if index + 1 == self.state:
-                stdscr.addstr(u'\u2502')
-                stdscr.addstr(option, curses.color_pair(1))
-                stdscr.addstr(" "*(self.width - len(option) - 2) + u'\u2502' + '\n')
-            else:
-                stdscr.addstr(u'\u2502' + option)
-                stdscr.addstr(" "*(self.width - len(option) - 2) + u'\u2502' + '\n')
+            for index, option in enumerate(self.options):
+                
+                if index + 1 == self.state:
+                    stdscr.addstr(u'\u2502')
+                    stdscr.addstr(option, curses.color_pair(1))
+                    stdscr.addstr(" "*(self.width - len(option) - 2) + u'\u2502' + '\n')
+                else:
+                    stdscr.addstr(u'\u2502' + option)
+                    stdscr.addstr(" "*(self.width - len(option) - 2) + u'\u2502' + '\n')
 
-        stdscr.addstr(u'\u2514' + u'\u2500'*(self.width-2) + u'\u2518' + '\n')
-
+            stdscr.addstr(u'\u2514' + u'\u2500'*(self.width-2) + u'\u2518' + '\n')
+        except:
+            raise Exception("\u001b[31mVous avez écraser mon joli menu ! :(((\033[0m")
 def create_obj(stdscr):
 
     if not get_info(stdscr):
@@ -87,9 +89,14 @@ def get_info(stdscr):
 
         global name
         name = get_str_utf8(stdscr,"Quel est le nom de l'évent ?\n")
+
         if name.lower() == "ex":
             return False
-        else:
+        elif '"' in name or '\'' in name:
+            if '"' in name:
+                name = name.replace('"','\\\\"')
+            if '\'' in name:
+                name = name.replace("'","\\'")
             break
     while True:
         stdscr.clear()
@@ -146,7 +153,6 @@ def translate(item:str, name:str, lore:list):
     commande += "'[{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"Objet Importable\",\"italic\":false,\"color\":\"gold\"},{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"⚠ Ne pas utiliser ⚠ \",\"italic\":false,\"color\":\"red\"},{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]']},Enchantments:[{id:infinity,lvl:1}],HideFlags:1} 1"
 
     return commande
-
 def historique(stdscr):
     list_commande = []
     with open("historique.txt", "r", encoding="utf-8") as file:
@@ -257,6 +263,13 @@ def get_str_utf8(stdscr, before: str = None):
 def main(stdscr):
     
     stdscr.keypad(True)
+
+    # stdscr.addstr("Bienvenue dans le AUC Trophy\nAppuyez sur n'importe quel touche")
+    if curses.is_term_resized(0,0) == True:
+        curses.resize_term(*stdscr.getmaxyx())
+        stdscr.clear()
+        stdscr.refresh()
+    
 
     curses.init_pair(1, curses.COLOR_BLACK, curses.COLOR_WHITE)
     curses.init_pair(2, curses.COLOR_WHITE, curses.COLOR_BLACK)
