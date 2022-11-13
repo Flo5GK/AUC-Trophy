@@ -98,6 +98,7 @@ def get_info(stdscr):
             if '\'' in name:
                 name = name.replace("'","\\'")
             break
+        break
     while True:
         stdscr.clear()
         stdscr.addstr("Quel sera sa description ?\n")
@@ -106,9 +107,14 @@ def get_info(stdscr):
         lore = get_str_utf8(stdscr,"Quel sera sa description ?\n")
         if lore.lower() == "ex":
             return False
-        else:
-            lore = wrap_up(lore)
-            break
+        elif '"' in name or '\'' in name:
+            if '"' in name:
+                name = name.replace('"','\\\\"')
+            if '\'' in name:
+                name = name.replace("'","\\'")
+
+        lore = wrap_up(lore)
+        break
 
     curses.echo(False)
     return True
