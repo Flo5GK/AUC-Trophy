@@ -47,19 +47,31 @@ class App(customtkinter.CTk):
         self.command_text.pack(pady=5)
         self.button = customtkinter.CTkButton(master=self.frame_right, text="CTkButton", command=gen_commande)
         self.button.pack(pady=5)
+        self.notif = customtkinter.CTkLabel(master=self.frame_right, text="", text_font=("Roboto Medium", -16), text_color=("green"))
+        self.notif.pack(pady=5)
     def clear(self):
         self.command_text.destroy()
         self.command_text = customtkinter.CTkTextbox(master=self.frame_right, width=500)
         self.command_text.pack(pady=5,before=self.button)
+    def update_historique(self):
+        self.hist_lab_1.configure(text=f"- {get_historique()[0][0]}")
+        self.hist_lab_2.configure(text=f"- {get_historique()[0][1]}")
+        self.hist_lab_3.configure(text=f"- {get_historique()[0][2]}")
+        self.hist_lab_4.configure(text=f"- {get_historique()[0][3]}")
+        self.hist_lab_5.configure(text=f"- {get_historique()[0][4]}")
+    def update_notif(self, text: str, color: str):
+        self.notif.configure(text=text,text_color=(color))
 
 def gen_commande():
     if search(app.item_entry.get()):
         commande = translate(app.item_entry.get(),app.name_entry.get(),app.lore_entry.get())
         create_obj()
         app.command_text.insert(0.0,commande)
+        app.update_historique()
+        app.update_notif("Commande copiée !","green")
     else:
         app.clear()
-        app.command_text.insert(0.0,"Item non reconnu")
+        app.update_notif("Item non reconnu ...","red")
 
 def create_obj():
 
