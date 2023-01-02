@@ -44,7 +44,6 @@ class App(customtkinter.CTk):
         self.item_entry = customtkinter.CTkEntry(master=self.frame_right, placeholder_text='Item')
         self.item_entry.pack(pady=5)
         self.command_text = customtkinter.CTkTextbox(master=self.frame_right, width=500)
-        # self.command_text.configure(state="disabled")
         self.command_text.pack(pady=5)
         self.button = customtkinter.CTkButton(master=self.frame_right, text="CTkButton", command=gen_commande)
         self.button.pack(pady=5)
