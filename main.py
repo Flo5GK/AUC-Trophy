@@ -269,8 +269,8 @@ def get_str_utf8(stdscr, before: str = None):
 def main(stdscr):
     
     stdscr.keypad(True)
+    curses.curs_set(0)
 
-    # stdscr.addstr("Bienvenue dans le AUC Trophy\nAppuyez sur n'importe quel touche")
     if curses.is_term_resized(0,0) == True:
         curses.resize_term(*stdscr.getmaxyx())
         stdscr.clear()

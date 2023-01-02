@@ -1,15 +1,23 @@
-# Initialize the screen
-import curses
+class Pair:
 
-screen = curses.initscr()
+    def __init__(self, x, y):
+        self.a = x
+        self.b = y
 
-# Check if screen was re-sized (True or False)
-while True:
-    resize = curses.is_term_resized(y, x)
+    def __str__(self):
+        return str(self.a) + ", " + str(self.b)
+    def opposite(self):
+        if self.a < 0:
+            x = self.a + 2 * self.a
+        elif self.a > 0:
+            x = self.a - 2 * self.a
+            
+        if self.b < 0:
+            y = self.b + 2 * self.b
+        elif self.b > 0:
+            y = self.b - 2 * self.b
+        return Pair(x,y)
 
-    # Action in loop if resize is True:
-    if resize is True:
-        y, x = screen.getmaxyx()
-        screen.clear()
-        curses.resize_term(y, x)
-        screen.refresh()
+paire = Pair(10,-2)
+instance  = paire.opposite()
+print(instance)
