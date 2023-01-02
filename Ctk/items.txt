@@ -1,0 +1,2493 @@
+Acacia Boat
+minecraft:acacia_boat
+Acacia Boat with Chest
+minecraft:acacia_chest_boat
+Acacia Button
+minecraft:acacia_button
+Acacia Door
+minecraft:acacia_door
+Acacia Fence
+minecraft:acacia_fence
+Acacia Fence Gate
+minecraft:acacia_fence_gate
+Acacia Leaves
+minecraft:acacia_leaves
+Acacia Log
+minecraft:acacia_log
+Acacia Planks
+minecraft:acacia_planks
+Acacia Pressure Plate
+minecraft:acacia_pressure_plate
+Acacia Sapling
+minecraft:acacia_sapling
+Acacia Sign
+minecraft:acacia_sign
+Acacia Slab
+minecraft:acacia_slab
+Acacia Stairs
+minecraft:acacia_stairs
+Acacia Trapdoor
+minecraft:acacia_trapdoor
+Acacia Wood
+minecraft:acacia_wood
+Activator Rails
+minecraft:activator_rail
+Allium
+minecraft:allium
+Amethyst Block
+minecraft:amethyst_block
+Amethyst Cluster
+minecraft:amethyst_cluster
+Amethyst Block
+Amethyst Shard
+miencraft:amethyst_shard
+5%
+Ancient Debris
+minecraft:ancient_debris
+Andesite
+minecraft:andesite
+Andesite Slab
+minecraft:andesite_slab
+Andesite Stairs
+minecraft:andesite_stairs
+Andesite Wall
+minecraft:andesite_wall
+Anvil
+minecraft:anvil
+Apple
+minecraft:apple
+Armor Stand
+minecraft:armor_stand
+Arrow
+minecraft:arrow
+Arrow of Fire Resistance 0:22
+minecraft:tipped_arrow
+Arrow of Fire Resistance 1:00
+minecraft:tipped_arrow
+Arrow of Harming Instant Damage II
+minecraft:tipped_arrow
+Arrow of Harming Instant Damage
+minecraft:tipped_arrow
+Arrow of Healing Instant Health II
+minecraft:tipped_arrow
+Arrow of Healing Instant Health
+minecraft:tipped_arrow
+Arrow of Invisibility 0:22
+minecraft:tipped_arrow
+Arrow of Invisibility 1:00
+minecraft:tipped_arrow
+Arrow of Leaping 0:11
+Jump Boost II minecraft:tipped_arrow
+FALSE
+Arrow of Leaping 0:22
+minecraft:tipped_arrow
+Arrow of Leaping 1:00
+minecraft:tipped_arrow
+Arrow of Night Vision 0:22
+minecraft:tipped_arrow
+Arrow of Night Vision 1:00
+minecraft:tipped_arrow
+Arrow of Poison 0:02
+Poison II minecraft:tipped_arrow
+FALSE
+Arrow of Poison 0:05
+minecraft:tipped_arrow
+Arrow of Poison 0:11
+minecraft:tipped_arrow
+Arrow of Regeneration 0:02
+Regeneration II minecraft:tipped_arrow
+FALSE
+Arrow of Regeneration 0:05
+minecraft:tipped_arrow
+Arrow of Regeneration 0:11
+minecraft:tipped_arrow
+Arrow of Slow Falling 0:11
+minecraft:tipped_arrow
+Arrow of Slow Falling 0:30
+minecraft:tipped_arrow
+Arrow of Slowness 0:02
+Slowness IV minecraft:tipped_arrow
+FALSE
+Arrow of Slowness 0:11
+minecraft:tipped_arrow
+Arrow of Slowness 0:30
+minecraft:tipped_arrow
+Arrow of Splashing
+minecraft:tipped_arrow
+Arrow of Strength 0:11
+Strength II minecraft:tipped_arrow
+FALSE
+Arrow of Strength 0:22
+minecraft:tipped_arrow
+Arrow of Strength 1:00
+minecraft:tipped_arrow
+Arrow of Swiftness 0:11
+Speed II minecraft:tipped_arrow
+FALSE
+Arrow of Swiftness 0:22
+minecraft:tipped_arrow
+Arrow of Swiftness 1:00
+minecraft:tipped_arrow
+Arrow of the Turtle Master 0:02
+Resistance III minecraft:tipped_arrow
+Resistance III
+Arrow of the Turtle Master 0:02
+Resistance IV minecraft:tipped_arrow
+Resistance IV
+Arrow of the Turtle Master 0:05
+Resistance III minecraft:tipped_arrow
+Resistance III
+Arrow of Water Breathing 0:22
+minecraft:tipped_arrow
+Arrow of Water Breathing 1:00
+minecraft:tipped_arrow
+Arrow of Weakness 0:11
+minecraft:tipped_arrow
+Arrow of Weakness 0:30
+minecraft:tipped_arrow
+Awkward Lingering Potion
+minecraft:lingering_potion
+Awkward Potion
+minecraft:potion
+Awkward Splash Potion
+minecraft:splash_potion
+Azalea
+minecraft:azalea
+Azalea Leaves
+minecraft:azalea_leaves
+Azure Bluet
+minecraft:azure_bluet
+Baked Potato
+minecraft:baked_potato
+Bamboo
+minecraft:bamboo
+Banner Pattern Creeper
+minecraft:creeper_banner_pattern
+Banner Pattern Flower
+minecraft:flower_banner_pattern
+Banner Pattern Globe
+minecraft:globe_banner_pattern
+Banner Pattern Skull
+minecraft:skull_banner_pattern
+Banner Pattern Snout
+minecraft:piglin_banner_pattern
+Banner Pattern Thing
+minecraft:mojang_banner_pattern
+Barrel
+minecraft:barrel
+Basalt
+minecraft:basalt
+Beacon
+minecraft:beacon
+Bee Nest
+minecraft:bee_nest
+Beehive
+minecraft:beehive
+Beetroot
+minecraft:beetroot
+Beetroot Seeds
+minecraft:beetroot_seeds
+Beetroot Soup
+minecraft:beetroot_soup
+Bell
+minecraft:bell
+Big Dripleaf
+minecraft:big_dripleaf
+Birch Boat
+minecraft:birch_boat
+Birch Boat with Chest
+minecraft:birch_chest_boat
+Birch Button
+minecraft:birch_button
+Birch Door
+minecraft:birch_door
+Birch Fence
+minecraft:birch_fence
+Birch Fence Gate
+minecraft:birch_fence_gate
+Birch Leaves
+minecraft:birch_leaves
+Birch Log
+minecraft:birch_log
+Birch Planks
+minecraft:birch_planks
+Birch Pressure Plate
+minecraft:birch_pressure_plate
+Birch Sapling
+minecraft:birch_sapling
+Birch Sign
+minecraft:birch_sign
+Birch Slab
+minecraft:birch_slab
+Birch Stairs
+minecraft:birch_stairs
+Birch Trapdoor
+minecraft:birch_trapdoor
+Birch Wood
+minecraft:birch_wood
+Black Banner
+minecraft:black_banner
+Black Bed
+minecraft:black_bed
+Black Candle
+minecraft:black_candle
+Black Carpet
+minecraft:black_carpet
+Black Concrete
+minecraft:black_concrete
+Black Concrete Powder
+minecraft:black_concrete_powder
+Black Dye
+minecraft:black_dye
+Black Glazed Terracotta
+minecraft:black_glazed_terracotta
+Black Shulker Box
+minecraft:black_shulker_box
+Black Stained Glass
+minecraft:black_stained_glass
+Black Stained Glass Pane
+minecraft:black_stained_glass_pane
+Black Terracotta
+minecraft:black_terracotta
+Black Wool
+minecraft:black_wool
+Blackstone
+minecraft:blackstone
+Blackstone Slab
+minecraft:blackstone_slab
+Blackstone Stairs
+minecraft:blackstone_stairs
+Blackstone Wall
+minecraft:blackstone_wall
+Blast Furnace
+minecraft:blast_furnace
+Blaze Powder
+minecraft:blaze_powder
+Blaze Rod
+minecraft:blaze_rod
+Blue Banner
+minecraft:blue_banner
+Blue Bed
+minecraft:blue_bed
+Blue Candle
+minecraft:blue_candle
+Blue Carpet
+minecraft:blue_carpet
+Blue Concrete
+minecraft:blue_concrete
+Blue Concrete Powder
+minecraft:blue_concrete_powder
+Blue Dye
+minecraft:blue_dye
+Blue Glazed Terracotta
+minecraft:blue_glazed_terracotta
+Blue Ice
+minecraft:blue_ice
+Blue Orchid
+minecraft:blue_orchid
+Blue Shulker Box
+minecraft:blue_shulker_box
+Blue Stained Glass
+minecraft:blue_stained_glass
+Blue Stained Glass Pane
+minecraft:blue_stained_glass_pane
+Blue Terracotta
+minecraft:blue_terracotta
+Blue Wool
+minecraft:blue_wool
+Bone
+minecraft:bone
+Bone Block
+minecraft:bone_block
+Bone Block
+Bone Meal
+minecraft:bone_meal
+Book
+minecraft:book
+Book and Quill
+minecraft:writable_book
+Bookshelf
+minecraft:bookshelf
+Bottle O' Enchanting
+minecraft:experience_bottle
+Bow
+minecraft:bow
+Bowl
+minecraft:bowl
+Brain Coral
+minecraft:brain_coral
+Brain Coral Block
+minecraft:brain_coral_block
+Brain Coral Fan
+minecraft:brain_coral_fan
+Bread
+minecraft:bread
+Brewing Stand
+minecraft:brewing_stand
+Brick
+minecraft:brick
+Brick Slab
+minecraft:brick_slab
+Brick Stairs
+minecraft:brick_stairs
+Brick Wall
+minecraft:brick_wall
+Bricks
+minecraft:bricks
+Brown Banner
+minecraft:brown_banner
+Brown Bed
+minecraft:brown_bed
+Brown Candle
+miencraft:brown_candle
+Brown Carpet
+minecraft:brown_carpet
+Brown Concrete
+minecraft:brown_concrete
+Brown Concrete Powder
+minecraft:brown_concrete_powder
+Brown Dye
+minecraft:brown_dye
+Brown Glazed Terracotta
+minecraft:brown_glazed_terracotta
+Brown Mushroom
+minecraft:brown_mushroom
+Brown Mushroom Block
+minecraft:brown_mushroom_block
+Brown Shulker Box
+minecraft:brown_shulker_box
+Brown Stained Glass
+minecraft:brown_stained_glass
+Brown Stained Glass Pane
+minecraft:brown_stained_glass_pane
+Brown Terracotta
+minecraft:brown_terracotta
+Brown Wool
+minecraft:brown_wool
+Bubble Coral
+minecraft:bubble_coral
+Bubble Coral Block
+minecraft:bubble_coral_block
+Bubble Coral Fan
+minecraft:bubble_coral_fan
+Bucket
+minecraft:bucket
+Bucket of Axolotl
+minecraft:axolotl_bucket
+Bucket of Cod
+minecraft:cod_bucket
+Bucket of Pufferfish
+minecraft:pufferfish_bucket
+Bucket of Salmon
+minecraft:salmon_bucket
+Bucket of Tadpole
+minecraft:tadpole_bucket
+Bucket of Tropical Fish
+minecraft:tropical_fish_bucket
+Cactus
+minecraft:cactus
+Cake
+minecraft:cake
+Calcite
+minecraft:calcite
+1 Quartz Block
+Campfire
+minecraft:campfire
+Candle
+minecraft:candle
+Carrot
+minecraft:carrot
+Carrot on a Stick
+minecraft:carrot_on_a_stick
+Cartography Table
+minecraft:cartography_table
+Carved Pumpkin
+minecraft:carved_pumpkin
+Cauldron
+minecraft:cauldron
+Chain
+minecraft:chain
+Chainmail Boots
+minecraft:chainmail_boots
+Chainmail Chestplate
+minecraft:chainmail_chestplate
+Chainmail Helmet
+minecraft:chainmail_helmet
+Chainmail Leggings
+minecraft:chainmail_leggings
+Charcoal
+minecraft:charcoal
+Chest
+minecraft:chest
+Chest Minecart
+minecraft:chest_minecart
+Chipped Anvil
+minecraft:chipped_anvil
+Chiseled Deepslate
+minecraft:chiseled_deepslate
+Chiseled Nether Bricks
+minecraft:chiseled_nether_bricks
+Chiseled Polished Blackstone
+minecraft:chiseled_polished_blackstone
+Chiseled Quartz Block
+minecraft:chiseled_quartz_block
+Chiseled Red Sandstone
+minecraft:chiseled_red_sandstone
+Chiseled Sandstone
+minecraft:chiseled_sandstone
+Chiseled Stone Bricks
+minecraft:chiseled_stone_bricks
+Chorus Flower
+minecraft:chorus_flower
+Growing
+Chorus Fruit
+minecraft:chorus_fruit
+Clay
+minecraft:clay
+Clay Ball
+minecraft:clay_ball
+Clock
+minecraft:clock
+Coal
+minecraft:coal
+Coal Block
+minecraft:coal_block
+Coal Ore
+minecraft:coal_ore
+5 Stone
+Coarse Dirt
+minecraft:coarse_dirt
+Cobbled Deepslate
+minecraft:cobbled_deepslate
+Cobbled Deepslate Slab
+minecraft:cobbled_deepslate_slab
+Cobbled Deepslate Stairs
+minecraft:cobbled_deepslate_stairs
+Cobbled Deepslate Wall
+minecraft:cobbled_deepslate_wall
+Cobblestone
+minecraft:cobblestone
+Cobblestone Slab
+minecraft:cobblestone_slab
+Cobblestone Stairs
+minecraft:cobblestone_stairs
+Cobblestone Wall
+minecraft:cobblestone_wall
+Cobweb
+minecraft:cobweb
+9 String
+Cocoa Beans
+minecraft:cocoa_beans
+99% Chance
+Compass
+minecraft:compass
+Composter
+minecraft:composter
+Conduit
+minecraft:conduit
+Cooked Chicken
+minecraft:cooked_chicken
+Cooked Cod
+minecraft:cooked_cod
+Cooked Mutton
+minecraft:cooked_mutton
+Cooked Porkchop
+minecraft:cooked_porkchop
+Cooked Rabbit
+minecraft:cooked_rabbit
+Cooked Salmon
+minecraft:cooked_salmon
+Cookie
+minecraft:cookie
+Copper Block
+minecraft:copper_block
+Copper Ingot
+minecraft:copper_ingot
+Copper Ore
+minecraft:copper_ore
+5 Stone
+Cornflower
+minecraft:cornflower
+Cracked Deepslate Bricks
+minecraft:cracked_deepslate_bricks
+Cracked Deepslate Tiles
+minecraft:cracked_deepslate_tiles
+Cracked Nether Bricks
+minecraft:cracked_nether_bricks
+Cracked Polished Blackstone Bricks
+minecraft:cracked_polished_blackstone_bricks
+Cracked Stone Bricks
+minecraft:cracked_stone_bricks
+Crafting Table
+minecraft:crafting_table
+Creeper Head
+minecraft:creeper_head
+Crimson Button
+minecraft:crimson_button
+Crimson Door
+minecraft:crimson_door
+Crimson Fence
+minecraft:crimson_fence
+Crimson Fence Gate
+minecraft:crimson_fence_gate
+Crimson Fungus
+minecraft:crimson_fungus
+Crimson Hyphae
+minecraft:crimson_hyphae
+Crimson Nylium
+minecraft:crimson_nylium
+Crimson Planks
+minecraft:crimson_planks
+Crimson Pressure Plate
+minecraft:crimson_pressure_plate
+Crimson Roots
+minecraft:crimson_roots
+Crimson Sign
+minecraft:crimson_sign
+Crimson Slab
+minecraft:crimson_slab
+Crimson Stairs
+minecraft:crimson_stairs
+Crimson Stem
+minecraft:crimson_stem
+Crimson Trapdoor
+minecraft:crimson_trapdoor
+Crossbow
+minecraft:crossbow
+Crying Obsidian
+minecraft:crying_obsidian
+Cut Copper
+minecraft:cut_copper
+Cut Copper Slab
+minecraft:cut_copper_slab
+Cut Copper Stairs
+minecraft:cut_copper_stairs
+Cut Red Sandstone
+minecraft:cut_red_sandstone
+Cut Red Sandstone Slab
+minecraft:cut_red_sandstone_slab
+Cut Sandstone
+minecraft:cut_sandstone
+Cut Sandstone Slab
+minecraft:cut_sandstone_slab
+Cyan Banner
+minecraft:cyan_banner
+Cyan Bed
+minecraft:cyan_bed
+Cyan Candle
+minecraft:cyan_candle
+Cyan Carpet
+minecraft:cyan_carpet
+Cyan Concrete
+minecraft:cyan_concrete
+Cyan Concrete Powder
+minecraft:cyan_concrete_powder
+Cyan Dye
+minecraft:cyan_dye
+Cyan Glazed Terracotta
+minecraft:cyan_glazed_terracotta
+Cyan Shulker Box
+minecraft:cyan_shulker_box
+Cyan Stained Glass
+minecraft:cyan_stained_glass
+Cyan Stained Glass Pane
+minecraft:cyan_stained_glass_pane
+Cyan Terracotta
+minecraft:cyan_terracotta
+Cyan Wool
+minecraft:cyan_wool
+Damaged Anvil
+minecraft:damaged_anvil
+Dandelion
+minecraft:dandelion
+Dark Oak Boat
+minecraft:dark_oak_boat
+Dark Oak Boat with Chest
+minecraft:dark_oak_chest_boat
+Dark Oak Button
+minecraft:dark_oak_button
+Dark Oak Door
+minecraft:dark_oak_door
+Dark Oak Fence
+minecraft:dark_oak_fence
+Dark Oak Fence Gate
+minecraft:dark_oak_fence_gate
+Dark Oak Leaves
+minecraft:dark_oak_leaves
+Dark Oak Log
+minecraft:dark_oak_log
+Dark Oak Planks
+minecraft:dark_oak_planks
+Dark Oak Pressure Plate
+minecraft:dark_oak_pressure_plate
+Dark Oak Sapling
+minecraft:dark_oak_sapling
+Dark Oak Sign
+minecraft:dark_oak_sign
+Dark Oak Slab
+minecraft:dark_oak_slab
+Dark Oak Stairs
+minecraft:dark_oak_stairs
+Dark Oak Trapdoor
+minecraft:dark_oak_trapdoor
+Dark Oak Wood
+minecraft:dark_oak_wood
+Dark Prismarine
+minecraft:dark_prismarine
+Dark Prismarine Slab
+minecraft:dark_prismarine_slab
+Dark Prismarine Stairs
+minecraft:dark_prismarine_stairs
+Daylight Sensor
+minecraft:daylight_detector
+Dead Brain Coral
+minecraft:dead_brain_coral
+Dead Brain Coral Block
+minecraft:dead_brain_coral_block
+Dead Brain Coral Fan
+minecraft:dead_brain_coral_fan
+Dead Bubble Coral
+minecraft:dead_bubble_coral
+Dead Bubble Coral Block
+minecraft:dead_bubble_coral_block
+Dead Bubble Coral Fan
+minecraft:dead_bubble_coral_fan
+Dead Bush
+minecraft:dead_bush
+Carpet Mod
+Dead Fire Coral
+minecraft:dead_fire_coral
+Dead Fire Coral Block
+minecraft:dead_fire_coral_block
+Dead Fire Coral Fan
+minecraft:dead_fire_coral_fan
+Dead Horn Coral
+minecraft:dead_horn_coral
+Dead Horn Coral Block
+minecraft:dead_horn_coral_block
+Dead Horn Coral Fan
+minecraft:dead_horn_coral_fan
+Dead Tube Coral
+minecraft:dead_tube_coral
+Dead Tube Coral Block
+minecraft:dead_tube_coral_block
+Dead Tube Coral Fan
+minecraft:dead_tube_coral_fan
+Deepslate
+minecraft:deepslate
+3
+Deepslate Brick Slab
+minecraft:deepslate_brick_slab
+Deepslate Brick Stairs
+minecraft:deepslate_brick_stairs
+Deepslate Brick Wall
+minecraft:deepslate_brick_wall
+Deepslate Bricks
+minecraft:deepslate_bricks
+Deepslate Coal Ore
+minecraft:deepslate_coal_ore
+5 Deepslate
+Deepslate Copper Ore
+minecraft:deepslate_copper_ore
+5 Deepslate
+Deepslate Diamond Ore
+minecraft:deepslate_diamond_ore
+5 Deepslate
+Deepslate Emerald Ore
+minecraft:deepslate_emerald_ore
+5 Deepslate
+Deepslate Gold Ore
+minecraft:deepslate_gold_ore
+5 Deepslate
+Deepslate Iron Ore
+minecraft:deepslate_iron_ore
+5 Deepslate
+Deepslate Lapis Lazuli Ore
+minecraft:deepslate_lapis_ore
+5 Deepslate
+Deepslate Redstone Ore
+minecraft:deepslate_redstone_ore
+5 Deepslate
+Deepslate Tile Slab
+minecraft:deepslate_tile_slab
+Deepslate Tile Stairs
+minecraft:deepslate_tile_stairs
+Deepslate Tile Wall
+minecraft:deepslate_tile_wall
+Deepslate Tiles
+minecraft:deepslate_tiles
+Detector Rail
+minecraft:detector_rail
+Diamond
+minecraft:diamond
+Diamond Axe
+minecraft:diamond_axe
+Diamond Block
+minecraft:diamond_block
+Diamond Boots
+minecraft:diamond_boots
+Diamond Chestplate
+minecraft:diamond_chestplate
+Diamond Helmet
+minecraft:diamond_helmet
+Diamond Hoe
+minecraft:diamond_hoe
+Diamond Horse Armor
+minecraft:diamond_horse_armor
+Diamond Leggings
+minecraft:diamond_leggings
+Diamond Ore
+minecraft:diamond_ore
+5 Stone
+Diamond Pickaxe
+minecraft:diamond_pickaxe
+Diamond Shovel
+minecraft:diamond_shovel
+Diamond Sword
+minecraft:diamond_sword
+Diorite
+minecraft:diorite
+Diorite Slab
+minecraft:diorite_slab
+Diorite Stairs
+minecraft:diorite_stairs
+Diorite Wall
+minecraft:diorite_wall
+Dirt
+minecraft:dirt
+Disc Fragment
+minecraft:disc_fragment_5
+Dispenser
+minecraft:dispenser
+Dragon Egg
+minecraft:dragon_egg
+Dragon Head
+minecraft:dragon_head
+2 Eye of Ender
+Dragon's Breath
+minecraft:dragon_breath
+Dried Kelp
+minecraft:dried_kelp
+Dried Kelp Block
+minecraft:dried_kelp_block
+Dripstone Block
+minecraft:dripstone_block
+Dropper
+minecraft:dropper
+Echo Shard
+minecraft:echo_shard
+Egg
+minecraft:egg
+Elytra
+minecraft:elytra
+Emerald
+minecraft:emerald
+Emerald Block
+minecraft:emerald_block
+Emerald Ore
+minecraft:emerald_ore
+5 Stone
+Empty Map
+minecraft:map
+Enchanted Book
+minecraft:enchanted_book
+Enchanted Golden Apple
+minecraft:enchanted_golden_apple
+Enchanting Table
+minecraft:enchanting_table
+End Crystal
+minecraft:end_crystal
+End Rod
+minecraft:end_rod
+End Stone
+minecraft:end_stone
+End Stone Brick Slab
+minecraft:end_stone_brick_slab
+End Stone Brick Stairs
+minecraft:end_stone_brick_stairs
+End Stone Brick Wall
+minecraft:end_stone_brick_wall
+End Stone Bricks
+minecraft:end_stone_bricks
+Ender Chest
+minecraft:ender_chest
+Ender Pearl
+minecraft:ender_pearl
+Exposed Copper Block
+minecraft:exposed_copper_block
+Exposed Cut Copper
+minecraft:exposed_cut_copper
+Exposed Cut Copper Slab
+minecraft:exposed_cut_copper_slab
+Exposed Cut Copper Stairs
+minecraft:exposed_cut_copper_stairs
+Eye of Ender
+minecraft:ender_eye
+Feather
+minecraft:feather
+Fermented Spider Eye
+minecraft:fermented_spider_eye
+Fern
+minecraft:fern
+Filled Map
+minecraft:filled_map
+Fire Charge
+minecraft:fire_charge
+Fire Coral
+minecraft:fire_coral
+Fire Coral Block
+minecraft:fire_coral_block
+Fire Coral Fan
+minecraft:fire_coral_fan
+Firework Rocket
+minecraft:firework_rocket
+Firework Star
+minecraft:firework_star
+Fishing Rod
+minecraft:fishing_rod
+Fletching Table
+minecraft:fletching_table
+Flint
+minecraft:flint
+Flint and Steel
+minecraft:flint_and_steel
+Flower Pot
+minecraft:flower_pot
+Flowering Azalea
+minecraft:flowering_azalea
+Flowering Azalea Leaves
+minecraft:flowering_azalea_leaves
+Furnace
+minecraft:furnace
+Furnace Minecart
+minecraft:furnace_minecart
+Ghast Tear
+minecraft:ghast_tear
+Gilded Blackstone
+minecraft:gilded_blackstone
+Glass
+minecraft:glass
+Glass Bottle
+minecraft:glass_bottle
+Glass Pane
+minecraft:glass_pane
+Glistering Melon Slice
+minecraft:glistering_melon_slice
+Glow Berries
+minecraft:glow_berries
+Glow Ink Sac
+minecraft:glow_ink_sac
+Glow Item Frame
+minecraft:glow_item_frame
+Glow Lichen
+minecraft:glow_lichen
+Bone Meal Spreading
+Glowstone
+minecraft:glowstone
+Glowstone Dust
+minecraft:glowstone_dust
+Goat Horn
+minecraft:goat_horn
+Gold Block
+minecraft:gold_block
+Gold Ingot
+minecraft:gold_ingot
+Gold Nugget
+minecraft:gold_nugget
+Gold Ore
+minecraft:gold_ore
+5 Stone
+Golden Apple
+minecraft:golden_apple
+Golden Axe
+minecraft:golden_axe
+Golden Boots
+minecraft:golden_boots
+Golden Carrot
+minecraft:golden_carrot
+Golden Chestplate
+minecraft:golden_chestplate
+Golden Helmet
+minecraft:golden_helmet
+Golden Hoe
+minecraft:golden_hoe
+Golden Horse Armor
+minecraft:golden_horse_armor
+Golden Leggings
+minecraft:golden_leggings
+Golden Pickaxe
+minecraft:golden_pickaxe
+Golden Shovel
+minecraft:golden_shovel
+Golden Sword
+minecraft:golden_sword
+Granite
+minecraft:granite
+Granite Slab
+minecraft:granite_slab
+Granite Stairs
+minecraft:granite_stairs
+Granite Wall
+minecraft:granite_wall
+Grass
+minecraft:grass
+Grass Block
+minecraft:grass_block
+0.9% Chance
+Gravel
+minecraft:gravel
+Gray Banner
+minecraft:gray_banner
+Gray Bed
+minecraft:gray_bed
+Gray Candle
+minecraft:gray_candle
+Gray Carpet
+minecraft:gray_carpet
+Gray Concrete
+minecraft:gray_concrete
+Gray Concrete Powder
+minecraft:gray_concrete_powder
+Gray Dye
+minecraft:gray_dye
+Gray Glazed Terracotta
+minecraft:gray_glazed_terracotta
+Gray Shulker Box
+minecraft:gray_shulker_box
+Gray Stained Glass
+minecraft:gray_stained_glass
+Gray Stained Glass Pane
+minecraft:gray_stained_glass_pane
+Gray Terracotta
+minecraft:gray_terracotta
+Gray Wool
+minecraft:gray_wool
+Green Banner
+minecraft:green_banner
+Green Bed
+minecraft:green_bed
+Green Candle
+minecraft:green_candle
+Green Carpet
+minecraft:green_carpet
+Green Concrete
+minecraft:green_concrete
+Green Concrete Powder
+minecraft:green_concrete_powder
+Green Dye
+minecraft:green_dye
+Green Glazed Terracotta
+minecraft:green_glazed_terracotta
+Green Shulker Box
+minecraft:green_shulker_box
+Green Stained Glass
+minecraft:green_stained_glass
+Green Stained Glass Pane
+minecraft:green_stained_glass_pane
+Green Terracotta
+minecraft:green_terracotta
+Green Wool
+minecraft:green_wool
+Grindstone
+minecraft:grindstone
+Gunpowder
+minecraft:gunpowder
+Hanging Roots
+minecraft:hanging_roots
+Hay Bale
+minecraft:hay_block
+Heart of the Sea
+minecraft:heart_of_the_sea
+Heavy Weighted Pressure Plate
+minecraft:heavy_weighted_pressure_plate
+Honey Block
+minecraft:honey_block
+Honey Bottle
+minecraft:honey_bottle
+Honeycomb
+minecraft:honeycomb
+Honeycomb Block
+minecraft:honeycomb_block
+Hopper
+minecraft:hopper
+Hopper Minecart
+minecraft:hopper_minecart
+Horn Coral
+minecraft:horn_coral
+Horn Coral Block
+minecraft:horn_coral_block
+Horn Coral Fan
+minecraft:horn_coral_fan
+Ice
+minecraft:ice
+Ink Sac
+minecraft:ink_sac
+Iron Axe
+minecraft:iron_axe
+Iron Bars
+minecraft:iron_bars
+Iron Block
+minecraft:iron_block
+Iron Boots
+minecraft:iron_boots
+Iron Chestplate
+minecraft:iron_chestplate
+Iron Door
+minecraft:iron_door
+Iron Helmet
+minecraft:iron_helmet
+Iron Hoe
+minecraft:iron_hoe
+Iron Horse Armor
+minecraft:iron_horse_armor
+Iron Ingot
+minecraft:iron_ingot
+Iron Leggings
+minecraft:iron_leggings
+Iron Nugget
+minecraft:iron_nugget
+Iron Ore
+minecraft:iron_ore
+5 Stone
+Iron Pickaxe
+minecraft:iron_pickaxe
+Iron Shovel
+minecraft:iron_shovel
+Iron Sword
+minecraft:iron_sword
+Iron Trapdoor
+minecraft:iron_trapdoor
+Item Frame
+minecraft:item_frame
+Jack o'Lantern
+minecraft:jack_o_lantern
+Jukebox
+minecraft:jukebox
+Jungle Boat
+minecraft:jungle_boat
+Jungle Boat with Chest
+minecraft:jungle_chest_boat
+Jungle Button
+minecraft:jungle_button
+Jungle Door
+minecraft:jungle_door
+Jungle Fence
+minecraft:jungle_fence
+Jungle Fence Gate
+minecraft:jungle_fence_gate
+Jungle Leaves
+minecraft:jungle_leaves
+Jungle Log
+minecraft:jungle_log
+Jungle Planks
+minecraft:jungle_planks
+Jungle Pressure Plate
+minecraft:jungle_pressure_plate
+Jungle Sapling
+minecraft:jungle_sapling
+Jungle Sign
+minecraft:jungle_sign
+Jungle Slab
+minecraft:jungle_slab
+Jungle Stairs
+minecraft:jungle_stairs
+Jungle Trapdoor
+minecraft:jungle_trapdoor
+Jungle Wood
+minecraft:jungle_wood
+Kelp
+minecraft:kelp
+Ladder
+minecraft:ladder
+Lantern
+minecraft:lantern
+Lapis Lazuli
+minecraft:lapis_lazuli
+Lapis Lazuli Block
+minecraft:lapis_block
+Lapis Lazuli Ore
+minecraft:lapis_ore
+5 Stone
+Large Amethyst Bud
+minecraft:large_amethyst_bud
+Amethyst Block
+Large Fern
+minecraft:large_fern
+Lava Bucket
+minecraft:lava_bucket
+1% Chance
+Lead
+minecraft:lead
+Leather
+minecraft:leather
+Leather Boots
+minecraft:leather_boots
+Leather Cap
+minecraft:leather_helmet
+Leather Horse Armor
+minecraft:leather_horse_armor
+Leather Pants
+minecraft:leather_leggings
+Leather Tunic
+minecraft:leather_chestplate
+Lectern
+minecraft:lectern
+Lever
+minecraft:lever
+Light Blue Banner
+minecraft:light_blue_banner
+Light Blue Bed
+minecraft:light_blue_bed
+Light Blue Candle
+minecraft:light_blue_candle
+Light Blue Carpet
+minecraft:light_blue_carpet
+Light Blue Concrete
+minecraft:light_blue_concrete
+Light Blue Concrete Powder
+minecraft:light_blue_concrete_powder
+Light Blue Dye
+minecraft:light_blue_dye
+Light Blue Glazed Terracotta
+minecraft:light_blue_glazed_terracotta
+Light Blue Shulker Box
+minecraft:light_blue_shulker_box
+Light Blue Stained Glass
+minecraft:light_blue_stained_glass
+Light Blue Stained Glass Pane
+minecraft:light_blue_stained_glass_pane
+Light Blue Terracotta
+minecraft:light_blue_terracotta
+Light Blue Wool
+minecraft:light_blue_wool
+Light Gray Banner
+minecraft:light_gray_banner
+Light Gray Bed
+minecraft:light_gray_bed
+Light Gray Candle
+minecraft:light_gray_candle
+Light Gray Carpet
+minecraft:light_gray_carpet
+Light Gray Concrete
+minecraft:light_gray_concrete
+Light Gray Concrete Powder
+minecraft:light_gray_concrete_powder
+Light Gray Dye
+minecraft:light_gray_dye
+Light Gray Glazed Terracotta
+minecraft:light_gray_glazed_terracotta
+Light Gray Shulker Box
+minecraft:light_gray_shulker_box
+Light Gray Stained Glass
+minecraft:light_gray_stained_glass
+Light Gray Stained Glass Pane
+minecraft:light_gray_stained_glass_pane
+Light Gray Terracotta
+minecraft:light_gray_terracotta
+Light Gray Wool
+minecraft:light_gray_wool
+Light Weighted Pressure Plate
+minecraft:light_weighted_pressure_plate
+Lightning Rod
+minecraft:lightning_rod
+Lilac
+minecraft:lilac
+Bone Meal Growing
+Lily of the Valley
+minecraft:lily_of_the_valley
+Lily Pad
+minecraft:lily_pad
+Lime Banner
+minecraft:lime_banner
+Lime Bed
+minecraft:lime_bed
+Lime Candle
+minecraft:lime_candle
+Lime Carpet
+minecraft:lime_carpet
+Lime Concrete
+minecraft:lime_concrete
+Lime Concrete Powder
+minecraft:lime_concrete_powder
+Lime Dye
+minecraft:lime_dye
+Lime Glazed Terracotta
+minecraft:lime_glazed_terracotta
+Lime Shulker Box
+minecraft:lime_shulker_box
+Lime Stained Glass
+minecraft:lime_stained_glass
+Lime Stained Glass Pane
+minecraft:lime_stained_glass_pane
+Lime Terracotta
+minecraft:lime_terracotta
+Lime Wool
+minecraft:lime_wool
+Lingering Potion of Fire Resistance 0:45
+minecraft:lingering_potion
+Lingering Potion of Fire Resistance 2:00
+minecraft:lingering_potion
+Lingering Potion of Harming Instant Damage II
+minecraft:lingering_potion
+Lingering Potion of Harming Instant Damage
+minecraft:lingering_potion
+Lingering Potion of Healing Instant Health II
+minecraft:lingering_potion
+Lingering Potion of Healing Instant Health
+minecraft:lingering_potion
+Lingering Potion of Invisibility 0:45
+minecraft:lingering_potion
+Lingering Potion of Invisibility 2:00
+minecraft:lingering_potion
+Lingering Potion of Leaping 0:22
+Jump Boost II minecraft:lingering_potion
+FALSE
+Lingering Potion of Leaping 0:45
+minecraft:lingering_potion
+Lingering Potion of Leaping 2:00
+minecraft:lingering_potion
+Lingering Potion of Night Vision 0:45
+minecraft:lingering_potion
+Lingering Potion of Night Vision 2:00
+minecraft:lingering_potion
+Lingering Potion of Poison 0:05
+Poison II minecraft:lingering_potion
+FALSE
+Lingering Potion of Poison 0:11
+minecraft:lingering_potion
+Lingering Potion of Poison 0:22
+minecraft:lingering_potion
+Lingering Potion of Regeneration 0:05
+Regeneration II minecraft:lingering_potion
+FALSE
+Lingering Potion of Regeneration 0:11
+minecraft:lingering_potion
+Lingering Potion of Regeneration 0:22
+minecraft:lingering_potion
+Lingering Potion of Slow Falling 0:22
+minecraft:lingering_potion
+Lingering Potion of Slow Falling 1:00
+minecraft:lingering_potion
+Lingering Potion of Slowness 0:02
+Slowness IV minecraft:lingering_potion
+FALSE
+Lingering Potion of Slowness 0:22
+minecraft:lingering_potion
+Lingering Potion of Slowness 1:00
+minecraft:lingering_potion
+Lingering Potion of Strength 0:22
+Strength II minecraft:lingering_potion
+FALSE
+Lingering Potion of Strength 0:45
+minecraft:lingering_potion
+Lingering Potion of Strength 2:00
+minecraft:lingering_potion
+Lingering Potion of Swiftness 0:22
+Speed II minecraft:lingering_potion
+FALSE
+Lingering Potion of Swiftness 0:45
+minecraft:lingering_potion
+Lingering Potion of Swiftness 2:00
+minecraft:lingering_potion
+Lingering Potion of the Turtle Master 0:05
+Resistance IV minecraft:lingering_potion
+Resistance IV
+Lingering Potion of the Turtle Master 0:05
+Resistance III minecraft:lingering_potion
+Resistance III
+Lingering Potion of the Turtle Master 0:10
+Resistance III minecraft:lingering_potion
+Resistance III
+Lingering Potion of Water Breathing 0:45
+minecraft:lingering_potion
+Lingering Potion of Water Breathing 2:00
+minecraft:lingering_potion
+Lingering Potion of Weakness 0:22
+minecraft:lingering_potion
+Lingering Potion of Weakness 1:00
+minecraft:lingering_potion
+Lingering Water Bottle
+minecraft:lingering_potion
+Lodestone
+minecraft:lodestone
+Loom
+minecraft:loom
+Magenta Banner
+minecraft:magenta_banner
+Magenta Bed
+minecraft:magenta_bed
+Magenta Candle
+minecraft:magenta_candle
+Magenta Carpet
+minecraft:magenta_carpet
+Magenta Concrete
+minecraft:magenta_concrete
+Magenta Concrete Powder
+minecraft:magenta_concrete_powder
+Magenta Dye
+minecraft:magenta_dye
+Magenta Glazed Terracotta
+minecraft:magenta_glazed_terracotta
+Magenta Shulker Box
+minecraft:magenta_shulker_box
+Magenta Stained Glass
+minecraft:magenta_stained_glass
+Magenta Stained Glass Pane
+minecraft:magenta_stained_glass_pane
+Magenta Terracotta
+minecraft:magenta_terracotta
+Magenta Wool
+minecraft:magenta_wool
+Magma Block
+minecraft:magma_block
+Magma Cream
+minecraft:magma_cream
+Mangrove Boat
+minecraft:mangrove_boat
+Mangrove Boat with Chest
+minecraft:mangrove_chest_boat
+Mangrove Button
+minecraft:mangrove_button
+Mangrove Door
+minecraft:mangrove_door
+Mangrove Fence
+minecraft:mangrove_fence
+Mangrove Fence Gate
+minecraft:mangrove_fence_gate
+Mangrove Leaves
+minecraft:mangrove_leaves
+Mangrove Log
+minecraft:mangrove_log
+Mangrove Planks
+minecraft:mangrove_planks
+Mangrove Pressure Plate
+minecraft:mangrove_pressure_plate
+Mangrove Propagule
+minecraft:mangrove_propagule
+Mangrove Roots
+minecraft:mangrove_roots
+Mangrove Sign
+minecraft:mangrove_sign
+Mangrove Slab
+minecraft:mangrove_slab
+Mangrove Stairs
+minecraft:mangrove_stairs
+Mangrove Trapdoor
+minecraft:mangrove_trapdoor
+Mangrove Wood
+minecraft:mangrove_wood
+Medium Amethyst Bud
+minecraft:medium_amethyst_bud
+Melon Block
+minecraft:melon
+Melon Seeds
+minecraft:melon_seeds
+Melon Slice
+minecraft:melon_slice
+Milk Bucket
+minecraft:milk_bucket
+Minecart
+minecraft:minecart
+Moss Block
+minecraft:moss_block
+Moss Carpet
+minecraft:moss_carpet
+Mossy Cobblestone
+minecraft:mossy_cobblestone
+Mossy Cobblestone Slab
+minecraft:mossy_cobblestone_slab
+Mossy Cobblestone Stairs
+minecraft:mossy_cobblestone_stairs
+Mossy Cobblestone Wall
+minecraft:mossy_cobblestone_wall
+Mossy Stone Brick Slab
+minecraft:mossy_stone_brick_slab
+Mossy Stone Brick Stairs
+minecraft:mossy_stone_brick_stairs
+Mossy Stone Brick Wall
+minecraft:mossy_stone_brick_wall
+Mossy Stone Bricks
+minecraft:mossy_stone_bricks
+Mud
+minecraft:mud
+Mud Brick Slab
+minecraft:mud_brick_slab
+Mud Brick Stairs
+minecraft:mud_brick_stairs
+Mud Brick Wall
+minecraft:mud_brick_wall
+Mud Bricks
+minecraft:mud_bricks
+Muddy Mangrove Roots
+minecraft:muddy_mangrove_roots
+Mundane Lingering Potion
+minecraft:lingering_potion
+Mundane Potion
+minecraft:potion
+Mundane Splash Potion
+minecraft:splash_potion
+Mushroom Stem
+minecraft:mushroom_stem
+Mushroom Stew
+minecraft:mushroom_stew
+Music Disc C418 - 11
+minecraft:music_disc_11
+Music Disc C418 - 13
+minecraft:music_disc_13
+Music Disc C418 - Blocks
+minecraft:music_disc_blocks
+Music Disc C418 - Cat
+minecraft:music_disc_cat
+Music Disc C418 - Chirp
+minecraft:music_disc_chirp
+Music Disc C418 - Far
+minecraft:music_disc_far
+Music Disc C418 - Mall
+minecraft:music_disc_mall
+Music Disc C418 - Mellohi
+minecraft:music_disc_mellohi
+Music Disc C418 - Stal
+minecraft:music_disc_stal
+Music Disc C418 - Strad
+minecraft:music_disc_strad
+Music Disc C418 - Wait
+minecraft:music_disc_wait
+Music Disc C418 - Ward
+minecraft:music_disc_ward
+Music Disc Lena Raine - Otherside
+minecraft:music_disc_otherside
+Music Disc Lena Raine - Pigstep
+minecraft:music_disc_pigstep
+Music Disc Samuel Åberg - 5
+minecraft:music_disc_5
+Mycelium
+minecraft:mycelium
+0.1% Chance
+Name Tag
+minecraft:name_tag
+Nautilus Shell
+minecraft:nautilus_shell
+Nether Brick
+minecraft:nether_brick
+Nether Brick Fence
+minecraft:nether_brick_fence
+Nether Brick Slab
+minecraft:nether_brick_slab
+Nether Brick Stairs
+minecraft:nether_brick_stairs
+Nether Brick Wall
+minecraft:nether_brick_wall
+Nether Bricks
+minecraft:nether_bricks
+Nether Gold Ore
+minecraft:nether_gold_ore
+5 Netherrack
+Nether Quartz
+minecraft:quartz
+Nether Quartz Ore
+minecraft:nether_quartz_ore
+4 Quartz
+Nether Sprouts
+minecraft:nether_sprouts
+Nether Star
+minecraft:nether_star
+Nether Wart
+minecraft:nether_wart
+Nether Wart Block
+minecraft:nether_wart_block
+Netherite Axe
+minecraft:netherite_axe
+Netherite Block
+minecraft:netherite_block
+Netherite Boots
+minecraft:netherite_boots
+Netherite Chestplate
+minecraft:netherite_chestplate
+Netherite Helmet
+minecraft:netherite_helmet
+Netherite Hoe
+minecraft:netherite_hoe
+Netherite Ingot
+minecraft:netherite_ingot
+Netherite Leggings
+minecraft:netherite_leggings
+Netherite Pickaxe
+minecraft:netherite_pickaxe
+Netherite Scrap
+minecraft:netherite_scrap
+Netherite Shovel
+minecraft:netherite_shovel
+Netherite Sword
+minecraft:netherite_sword
+Netherrack
+minecraft:netherrack
+4 Weeping Vines
+Note Block
+minecraft:note_block
+Oak Boat
+minecraft:oak_boat
+Oak Boat with Chest
+minecraft:oak_chest_boat
+Oak Button
+minecraft:oak_button
+Oak Door
+minecraft:oak_door
+Oak Fence
+minecraft:oak_fence
+Oak Fence Gate
+minecraft:oak_fence_gate
+Oak Leaves
+minecraft:oak_leaves
+Oak Log
+minecraft:oak_log
+Oak Planks
+minecraft:oak_planks
+Oak Pressure Plate
+minecraft:oak_pressure_plate
+Oak Sapling
+minecraft:oak_sapling
+Oak Sign
+minecraft:oak_sign
+Oak Slab
+minecraft:oak_slab
+Oak Stairs
+minecraft:oak_stairs
+Oak Trapdoor
+minecraft:oak_trapdoor
+Oak Wood
+minecraft:oak_wood
+Observer
+minecraft:observer
+Obsidian
+minecraft:obsidian
+Ochre Froglight
+minecraft:ochre_froglight
+Orange Banner
+minecraft:orange_banner
+Orange Bed
+minecraft:orange_bed
+Orange Candle
+minecraft:orange_candle
+Orange Carpet
+minecraft:orange_carpet
+Orange Concrete
+minecraft:orange_concrete
+Orange Concrete Powder
+minecraft:orange_concrete_powder
+Orange Dye
+minecraft:orange_dye
+Orange Glazed Terracotta
+minecraft:orange_glazed_terracotta
+Orange Shulker Box
+minecraft:orange_shulker_box
+Orange Stained Glass
+minecraft:orange_stained_glass
+Orange Stained Glass Pane
+minecraft:orange_stained_glass_pane
+Orange Terracotta
+minecraft:orange_terracotta
+Orange Tulip
+minecraft:orange_tulip
+Orange Wool
+minecraft:orange_wool
+Oxeye Daisy
+minecraft:oxeye_daisy
+Oxidized Copper Block
+minecraft:oxidized_copper_block
+Oxidized Cut Copper
+minecraft:oxidized_cut_copper
+Oxidized Cut Copper Slab
+minecraft:oxidized_cut_copper_slab
+Oxidized Cut Copper Stairs
+minecraft:oxidized_cut_copper_stairs
+Packed Ice
+minecraft:packed_ice
+Packed Mud
+minecraft:packed_mud
+Painting
+minecraft:painting
+Paper
+minecraft:paper
+Pearlescent Froglight
+minecraft:ochre_froglight
+Peony
+minecraft:peony
+Bone Meal Growing
+Phantom Membrane
+minecraft:phantom_membrane
+Pink Banner
+minecraft:pink_banner
+Pink Bed
+minecraft:pink_bed
+Pink Candle
+minecraft:pink_candle
+Pink Carpet
+minecraft:pink_carpet
+Pink Concrete
+minecraft:pink_concrete
+Pink Concrete Powder
+minecraft:pink_concrete_powder
+Pink Dye
+minecraft:pink_dye
+Pink Glazed Terracotta
+minecraft:pink_glazed_terracotta
+Pink Shulker Box
+minecraft:pink_shulker_box
+Pink Stained Glass
+minecraft:pink_stained_glass
+Pink Stained Glass Pane
+minecraft:pink_stained_glass_pane
+Pink Terracotta
+minecraft:pink_terracotta
+Pink Tulip
+minecraft:pink_tulip
+Pink Wool
+minecraft:pink_wool
+Piston
+minecraft:piston
+Podzol
+minecraft:podzol
+Pointed Dripstone
+minecraft:pointed_dripstone
+Poisonous Potato
+minecraft:poisonous_potato
+Polished Andesite
+minecraft:polished_andesite
+Polished Andesite Slab
+minecraft:polished_andesite_slab
+Polished Andesite Stairs
+minecraft:polished_andesite_stairs
+Polished Basalt
+minecraft:polished_basalt
+Polished Blackstone
+minecraft:polished_blackstone
+Polished Blackstone Brick Slab
+minecraft:polished_blackstone_brick_slab
+Polished Blackstone Brick Stairs
+minecraft:polished_blackstone_brick_stairs
+Polished Blackstone Brick Wall
+minecraft:polished_blackstone_brick_wall
+Polished Blackstone Bricks
+minecraft:polished_blackstone_bricks
+Polished Blackstone Button
+minecraft:polished_blackstone_button
+Polished Blackstone Pressure Plate
+minecraft:polished_blackstone_pressure_plate
+Polished Blackstone Slab
+minecraft:polished_blackstone_slab
+Polished Blackstone Stairs
+minecraft:polished_blackstone_stairs
+Polished Blackstone Wall
+minecraft:polished_blackstone_wall
+Polished Deepslate
+minecraft:polished_deepslate
+Polished Deepslate Slab
+minecraft:polished_deepslate_slab
+Polished Deepslate Stairs
+minecraft:polished_deepslate_stairs
+Polished Deepslate Wall
+minecraft:polished_deepslate_wall
+Polished Diorite
+minecraft:polished_diorite
+Polished Diorite Slab
+minecraft:polished_diorite_slab
+Polished Diorite Stairs
+minecraft:polished_diorite_stairs
+Polished Granite
+minecraft:polished_granite
+Polished Granite Slab
+minecraft:polished_granite_slab
+Polished Granite Stairs
+minecraft:polished_granite_stairs
+Popped Chorus Fruit
+minecraft:popped_chorus_fruit
+Poppy
+minecraft:poppy
+Potato
+minecraft:potato
+Potion of Fire Resistance 3:00
+minecraft:potion
+Potion of Fire Resistance 8:00
+minecraft:potion
+Potion of Harming Instant Damage II
+minecraft:potion
+Potion of Harming Instant Damage
+minecraft:potion
+Potion of Healing Instant Health II
+minecraft:potion
+Potion of Healing Instant Health
+minecraft:potion
+Potion of Invisibility 3:00
+minecraft:potion
+Potion of Invisibility 8:00
+minecraft:potion
+Potion of Leaping 1:30
+Jump Boost II minecraft:potion
+FALSE
+Potion of Leaping 3:00
+minecraft:potion
+Potion of Leaping 8:00
+minecraft:potion
+Potion of Night Vision 3:00
+minecraft:potion
+Potion of Night Vision 8:00
+minecraft:potion
+Potion of Poison 0:22
+Poison II minecraft:potion
+FALSE
+Potion of Poison 0:45
+minecraft:potion
+Potion of Poison 1:30
+minecraft:potion
+Potion of Regeneration 0:22
+Regeneration II minecraft:potion
+FALSE
+Potion of Regeneration 0:45
+minecraft:potion
+Potion of Regeneration 1:30
+minecraft:potion
+Potion of Slow Falling 1:30
+minecraft:potion
+Potion of Slow Falling 4:00
+minecraft:potion
+Potion of Slowness 0:10
+Slowness IV minecraft:potion
+FALSE
+Potion of Slowness 1:30
+minecraft:potion
+Potion of Slowness 4:00
+minecraft:potion
+Potion of Strength 1:30
+Strength II minecraft:potion
+FALSE
+Potion of Strength 3:00
+minecraft:potion
+Potion of Strength 8:00
+minecraft:potion
+Potion of Swiftness 1:30
+Speed II minecraft:potion
+FALSE
+Potion of Swiftness 3:00
+minecraft:potion
+Potion of Swiftness 8:00
+minecraft:potion
+Potion of the Turtle Master 0:20
+Resistance III minecraft:potion
+Resistance III
+Potion of the Turtle Master 0:20
+Resistance IV minecraft:potion
+Resistance IV
+Potion of the Turtle Master 0:40
+Resistance III minecraft:potion
+Resistance III
+Potion of Water Breathing 3:00
+minecraft:potion
+Potion of Water Breathing 8:00
+minecraft:potion
+Potion of Weakness 1:30
+minecraft:potion
+Potion of Weakness 4:00
+minecraft:potion
+Powder Snow Bucket
+minecraft:powder_snow_bucket
+Powered Rails
+minecraft:powered_rail
+Prismarine
+minecraft:prismarine
+Prismarine Brick Slab
+minecraft:prismarine_brick_slab
+Prismarine Brick Stairs
+minecraft:prismarine_brick_stairs
+Prismarine Bricks
+minecraft:prismarine_bricks
+Prismarine Crystals
+minecraft:prismarine_crystals
+Prismarine Shard
+minecraft:prismarine_shard
+Prismarine Slab
+minecraft:prismarine_slab
+Prismarine Stairs
+minecraft:prismarine_stairs
+Prismarine Wall
+minecraft:prismarine_wall
+Pufferfish
+minecraft:pufferfish
+Pumpkin
+minecraft:pumpkin
+Pumpkin Pie
+minecraft:pumpkin_pie
+Pumpkin Seeds
+minecraft:pumpkin_seeds
+Purple Banner
+minecraft:purple_banner
+Purple Bed
+minecraft:purple_bed
+Purple Candle
+minecraft:purple_candle
+Purple Carpet
+minecraft:purple_carpet
+Purple Concrete
+minecraft:purple_concrete
+Purple Concrete Powder
+minecraft:purple_concrete_powder
+Purple Dye
+minecraft:purple_dye
+Purple Glazed Terracotta
+minecraft:purple_glazed_terracotta
+Purple Shulker Box
+minecraft:purple_shulker_box
+Purple Stained Glass
+minecraft:purple_stained_glass
+Purple Stained Glass Pane
+minecraft:purple_stained_glass_pane
+Purple Terracotta
+minecraft:purple_terracotta
+Purple Wool
+minecraft:purple_wool
+Purpur Block
+minecraft:purpur_block
+Purpur Pillar
+minecraft:purpur_pillar
+Purpur Slab
+minecraft:purpur_slab
+Purpur Stairs
+minecraft:purpur_stairs
+Quartz Block
+minecraft:quartz_block
+Quartz Bricks
+minecraft:quartz_bricks
+Quartz Pillar
+minecraft:quartz_pillar
+Quartz Slab
+minecraft:quartz_slab
+Quartz Stairs
+minecraft:quartz_stairs
+Rabbit Hide
+minecraft:rabbit_hide
+Rabbit Stew
+minecraft:rabbit_stew
+Rabbit's Foot
+minecraft:rabbits_foot
+Rail
+minecraft:rail
+Raw Beef
+minecraft:beef
+Raw Chicken
+minecraft:chicken
+Raw Cod
+minecraft:cod
+Raw Copper
+minecraft:raw_copper
+Raw Copper Block
+minecraft:raw_copper_block
+Raw Gold
+minecraft:raw_gold
+Raw Gold Block
+minecraft:raw_gold_block
+Raw Iron
+minecraft:raw_iron
+Raw Iron Block
+minecraft:raw_iron_block
+Raw Mutton
+minecraft:mutton
+Raw Porkchop
+minecraft:porkchop
+Raw Rabbit
+minecraft:rabbit
+Raw Salmon
+minecraft:salmon
+Recovery Compass
+minecraft:recovery_compass
+Red Banner
+minecraft:red_banner
+Red Bed
+minecraft:red_bed
+Red Candle
+minecraft:red_candle
+Red Carpet
+minecraft:red_carpet
+Red Concrete
+minecraft:red_concrete
+Red Concrete Powder
+minecraft:red_concrete_powder
+Red Dye
+minecraft:red_dye
+Red Glazed Terracotta
+minecraft:red_glazed_terracotta
+Red Mushroom
+minecraft:red_mushroom
+Red Mushroom Block
+minecraft:red_mushroom_block
+Red Nether Brick Slab
+minecraft:red_nether_brick_slab
+Red Nether Brick Stairs
+minecraft:red_nether_brick_stairs
+Red Nether Brick Wall
+minecraft:red_nether_brick_wall
+Red Nether Bricks
+minecraft:red_nether_bricks
+Red Sand
+minecraft:red_sand
+Red Sandstone
+minecraft:red_sandstone
+Red Sandstone Slab
+minecraft:red_sandstone_slab
+Red Sandstone Stairs
+minecraft:red_sandstone_stairs
+Red Sandstone Wall
+minecraft:red_sandstone_wall
+Red Shulker Box
+minecraft:red_shulker_box
+Red Stained Glass
+minecraft:red_stained_glass
+Red Stained Glass Pane
+minecraft:red_stained_glass_pane
+Red Terracotta
+minecraft:red_terracotta
+Red Tulip
+minecraft:red_tulip
+Red Wool
+minecraft:red_wool
+Redstone Block
+minecraft:redstone_block
+Redstone Comparator
+minecraft:comparator
+Redstone Dust
+minecraft:redstone
+Redstone Lamp
+minecraft:redstone_lamp
+Redstone Ore
+minecraft:redstone_ore
+5 Stone
+Redstone Repeater
+minecraft:repeater
+Redstone Torch
+minecraft:redstone_torch
+Respawn Anchor
+minecraft:respawn_anchor
+Rooted Dirt
+minecraft:rooted_dirt
+Rose Bush
+minecraft:rose_bush
+Bone Meal Growing
+Rotten Flesh
+minecraft:rotten_flesh
+Saddle
+minecraft:saddle
+Sand
+minecraft:sand
+Sandstone
+minecraft:sandstone
+Sandstone Slab
+minecraft:sandstone_slab
+Sandstone Stairs
+minecraft:sandstone_stairs
+Sandstone Wall
+minecraft:sandstone_wall
+Scaffolding
+minecraft:scaffolding
+Sculk
+minecraft:sculk
+Sculk Catalyst
+minecraft:sculk_catalyst
+Sculk Sensor
+minecraft:sculk_sensor
+Sculk Shrieker
+minecraft:sculk_shrieker
+Sculk Vein
+minecraft:sculk_vein
+Scute
+minecraft:scute
+Sea Lantern
+minecraft:sea_lantern
+Sea Pickle
+minecraft:sea_pickle
+Seagrass
+minecraft:seagrass
+Shears
+minecraft:shears
+Shield
+minecraft:shield
+Shroomlight
+minecraft:shroomlight
+Shulker Box
+minecraft:shulker_box
+Shulker Shell
+minecraft:shulker_shell
+Skeleton Skull
+minecraft:skeleton_skull
+Slime Block
+minecraft:slime_block
+Slimeball
+minecraft:slimeball
+Small Amethyst Bud
+minecraft:small_amethyst_bud
+Amethyst Block
+Small Dripleaf
+minecraft:small_dripleaf
+Smithing Table
+minecraft:smithing_table
+Smoker
+minecraft:smoker
+Smooth Basalt
+minecraft:smooth_basalt
+Smooth Quartz Block
+minecraft:smooth_quartz
+Smooth Quartz Slab
+minecraft:smooth_quartz_slab
+Smooth Quartz Stairs
+minecraft:smooth_quartz_stairs
+Smooth Red Sandstone
+minecraft:smooth_red_sandstone
+Smooth Red Sandstone Slab
+minecraft:smooth_red_sandstone_slab
+Smooth Red Sandstone Stairs
+minecraft:smooth_red_sandstone_stairs
+Smooth Sandstone
+minecraft:smooth_sandstone
+Smooth Sandstone Slab
+minecraft:smooth_sandstone_slab
+Smooth Sandstone Stairs
+minecraft:smooth_sandstone_stairs
+Smooth Stone
+minecraft:smooth_stone
+Smooth Stone Slab
+minecraft:smooth_stone_slab
+Snow
+minecraft:snow
+Snow Block
+minecraft:snow_block
+Snowball
+minecraft:snowball
+Soul Campfire
+minecraft:soul_campfire
+Soul Fire Lantern
+minecraft:soul_fire_lantern
+Soul Sand
+minecraft:soul_sand
+Soul Soil
+minecraft:soul_soil
+Soul Torch
+minecraft:soul_torch
+Spectral Arrow
+minecraft:spectral_arrow
+Spider Eye
+minecraft:spider_eye
+Splash Potion of Fire Resistance 3:00
+minecraft:splash_potion
+Splash Potion of Fire Resistance 8:00
+minecraft:splash_potion
+Splash Potion of Harming Instant Damage II
+minecraft:splash_potion
+Splash Potion of Harming Instant Damage
+minecraft:splash_potion
+Splash Potion of Healing Instant Health II
+minecraft:splash_potion
+Splash Potion of Healing Instant Health
+minecraft:splash_potion
+Splash Potion of Invisibility 3:00
+minecraft:splash_potion
+Splash Potion of Invisibility 8:00
+minecraft:splash_potion
+Splash Potion of Leaping 1:30
+Jump Boost II minecraft:splash_potion
+FALSE
+Splash Potion of Leaping 3:00
+minecraft:splash_potion
+Splash Potion of Leaping 8:00
+minecraft:splash_potion
+Splash Potion of Night Vision 3:00
+minecraft:splash_potion
+Splash Potion of Night Vision 8:00
+minecraft:splash_potion
+Splash Potion of Poison 0:22
+Poison II minecraft:splash_potion
+FALSE
+Splash Potion of Poison 0:45
+minecraft:splash_potion
+Splash Potion of Poison 1:30
+minecraft:splash_potion
+Splash Potion of Regeneration 0:22
+Regeneration II minecraft:splash_potion
+FALSE
+Splash Potion of Regeneration 0:45
+minecraft:splash_potion
+Splash Potion of Regeneration 1:30
+minecraft:splash_potion
+Splash Potion of Slow Falling 1:30
+minecraft:splash_potion
+Splash Potion of Slow Falling 4:00
+minecraft:splash_potion
+Splash Potion of Slowness 0:20
+Slowness IV minecraft:splash_potion
+FALSE
+Splash Potion of Slowness 1:30
+minecraft:splash_potion
+Splash Potion of Slowness 4:00
+minecraft:splash_potion
+Splash Potion of Strength 1:30
+Strength II minecraft:splash_potion
+FALSE
+Splash Potion of Strength 3:00
+minecraft:splash_potion
+Splash Potion of Strength 8:00
+minecraft:splash_potion
+Splash Potion of Swiftness 1:30
+Speed II minecraft:splash_potion
+FALSE
+Splash Potion of Swiftness 3:00
+minecraft:splash_potion
+Splash Potion of Swiftness 8:00
+minecraft:splash_potion
+Splash Potion of the Turtle Master 0:20
+Resistance III minecraft:splash_potion
+Resistance III
+Splash Potion of the Turtle Master 0:20
+Resistance IV minecraft:splash_potion
+Resistance IV
+Splash Potion of the Turtle Master 0:40
+Resistance III minecraft:splash_potion
+Resistance III
+Splash Potion of Water Breathing 3:00
+minecraft:splash_potion
+Splash Potion of Water Breathing 8:00
+minecraft:splash_potion
+Splash Potion of Weakness 1:30
+minecraft:splash_potion
+Splash Potion of Weakness 4:00
+minecraft:splash_potion
+Splash Water Bottle
+minecraft:splash_potion
+Sponge
+minecraft:sponge
+Spore Blossom
+minecraft:spore_blossom
+Replaces Glow Berries 1/3 of the time
+Spruce Boat
+minecraft:spruce_boat
+Spruce Boat with Chest
+minecraft:spruce_chest_boat
+Spruce Button
+minecraft:spruce_button
+Spruce Door
+minecraft:spruce_door
+Spruce Fence
+minecraft:spruce_fence
+Spruce Fence Gate
+minecraft:spruce_fence_gate
+Spruce Leaves
+minecraft:spruce_leaves
+Spruce Log
+minecraft:spruce_log
+Spruce Planks
+minecraft:spruce_planks
+Spruce Pressure Plate
+minecraft:spruce_pressure_plate
+Spruce Sapling
+minecraft:spruce_sapling
+Spruce Sign
+minecraft:spruce_sign
+Spruce Slab
+minecraft:spruce_slab
+Spruce Stairs
+minecraft:spruce_stairs
+Spruce Trapdoor
+minecraft:spruce_trapdoor
+Spruce Wood
+minecraft:spruce_wood
+Spyglass
+minecraft:spyglass
+Steak
+minecraft:cooked_beef
+Stick
+minecraft:stick
+Sticky Piston
+minecraft:sticky_piston
+Stone
+minecraft:stone
+Stone Axe
+minecraft:stone_axe
+Stone Brick Slab
+minecraft:stone_brick_slab
+Stone Brick Stairs
+minecraft:stone_brick_stairs
+Stone Brick Wall
+minecraft:stone_brick_wall
+Stone Bricks
+minecraft:stone_bricks
+Stone Button
+minecraft:stone_button
+Stone Hoe
+minecraft:stone_hoe
+Stone Pickaxe
+minecraft:stone_pickaxe
+Stone Pressure Plate
+minecraft:stone_pressure_plate
+Stone Shovel
+minecraft:stone_shovel
+Stone Slab
+minecraft:stone_slab
+Stone Stairs
+minecraft:stone_stairs
+Stone Sword
+minecraft:stone_sword
+Stonecutter
+minecraft:stonecutter
+String
+minecraft:string
+Stripped Acacia Log
+minecraft:stripped_acacia_log
+Stripped Acacia Wood
+minecraft:stripped_acacia_wood
+Stripped Birch Log
+minecraft:stripped_birch_log
+Stripped Birch Wood
+minecraft:stripped_birch_wood
+Stripped Crimson Hyphae
+minecraft:stripped_crimson_hyphae
+Stripped Crimson Stem
+minecraft:stripped_crimson_stem
+Stripped Dark Oak Log
+minecraft:stripped_dark_oak_log
+Stripped Dark Oak Wood
+minecraft:stripped_dark_oak_wood
+Stripped Jungle Log
+minecraft:stripped_jungle_log
+Stripped Jungle Wood
+minecraft:stripped_jungle_wood
+Stripped Mangrove Log
+minecraft:stripped_mangrove_log
+Stripped Mangrove Wood
+minecraft:stripped_mangrove_wood
+Stripped Oak Log
+minecraft:stripped_oak_log
+Stripped Oak Wood
+minecraft:stripped_oak_wood
+Stripped Spruce Log
+minecraft:stripped_spruce_log
+Stripped Spruce Wood
+minecraft:stripped_spruce_wood
+Stripped Warped Hyphae
+minecraft:stripped_warped_hyphae
+Stripped Warped Stem
+minecraft:stripped_warped_stem
+Sugar
+minecraft:sugar
+Sugar Cane
+minecraft:sugar_cane
+Sunflower
+minecraft:sunflower
+Bone Meal Growing
+Suspicious Stew
+minecraft:suspicious_stew
+Sweet Berries
+minecraft:sweet_berries
+Tall Grass
+minecraft:tall_grass
+Target
+minecraft:target
+Terracotta
+minecraft:terracotta
+Thick Lingering Potion
+minecraft:lingering_potion
+Thick Potion
+minecraft:potion
+Thick Splash Potion
+minecraft:splash_potion
+Tinted Glass
+minecraft:tinted_glass
+Tipped Arrow
+minecraft:tipped_arrow
+TNT
+minecraft:tnt
+TNT Minecart
+minecraft:tnt_minecart
+Torch
+minecraft:torch
+Totem of Undying
+minecraft:totem_of_undying
+Trapped Chest
+minecraft:trapped_chest
+Trident
+minecraft:trident
+Tripwire Hook
+minecraft:tripwire_hook
+Tropical Fish
+minecraft:tropical_fish
+Tube Coral
+minecraft:tube_coral
+Tube Coral Block
+minecraft:tube_coral_block
+Tube Coral Fan
+minecraft:tube_coral_fan
+Tuff
+minecraft:tuff
+1 Diorite
+Turtle Egg
+minecraft:turtle_egg
+Turtle Shell
+minecraft:turtle_helmet
+Twisting Vines
+minecraft:twisting_vines
+Verdant Froglight
+minecraft:ochre_froglight
+Vines
+minecraft:vines
+Warped Button
+minecraft:warped_button
+Warped Door
+minecraft:warped_door
+Warped Fence
+minecraft:warped_fence
+Warped Fence Gate
+minecraft:warped_fence_gate
+Warped Fungus
+minecraft:warped_fungus
+Warped Fungus on a Stick
+minecraft:warped_fungus_on_a_stick
+Warped Hyphae
+minecraft:warped_hyphae
+Warped Nylium
+minecraft:warped_nylium
+Warped Planks
+minecraft:warped_planks
+Warped Pressure Plate
+minecraft:warped_pressure_plate
+Warped Roots
+minecraft:warped_roots
+Warped Sign
+minecraft:warped_sign
+Warped Slab
+minecraft:warped_slab
+Warped Stairs
+minecraft:warped_stairs
+Warped Stem
+minecraft:warped_stem
+Warped Trapdoor
+minecraft:warped_trapdoor
+Warped Wart Block
+minecraft:warped_wart_block
+Water Bottle
+minecraft:potion
+Water Bucket
+minecraft:water_bucket
+Waxed Copper Block
+minecraft:waxed_copper
+Waxed Cut Copper
+minecraft:waxed_cut_copper
+Waxed Cut Copper Slab
+minecraft:waxed_cut_copper_slab
+Waxed Cut Copper Stairs
+minecraft:waxed_cut_copper_stairs
+Waxed Exposed Copper Block
+minecraft:waxed_exposed_copper
+Waxed Exposed Cut Copper
+minecraft:waxed_exposed_cut_copper
+Waxed Exposed Cut Copper Slab
+minecraft:waxed_exposed_cut_copper_slab
+Waxed Exposed Cut Copper Stairs
+minecraft:waxed_exposed_cut_copper_stairs
+Waxed Oxidized Copper Block
+minecraft:waxed_oxidized_copper
+Waxed Oxidized Cut Copper
+minecraft:waxed_oxidized_cut_copper
+Waxed Oxidized Cut Copper Slab
+minecraft:waxed_oxidized_cut_copper_slab
+Waxed Oxidized Cut Copper Stairs
+minecraft:waxed_oxidized_cut_copper_stairs
+Waxed Weathered Copper Block
+minecraft:waxed_weathered_copper
+Waxed Weathered Cut Copper
+minecraft:waxed_weathered_cut_copper
+Waxed Weathered Cut Copper Slab
+minecraft:waxed_weathered_cut_copper_slab
+Waxed Weathered Cut Copper Stairs
+minecraft:waxed_weathered_cut_copper_stairs
+Weathered Copper Block
+minecraft:weathered_copper_block
+Weathered Cut Copper
+minecraft:weathered_cut_copper
+Weathered Cut Copper Slab
+minecraft:weathered_cut_copper_slab
+Weathered Cut Copper Stairs
+minecraft:weathered_cut_copper_stairs
+Weeping Vines
+minecraft:weeping_vines
+Wet Sponge
+minecraft:wet_sponge
+Wheat
+minecraft:wheat
+Wheat Seeds
+minecraft:wheat_seeds
+White Banner
+minecraft:white_banner
+White Bed
+minecraft:white_bed
+White Candle
+minecraft:white_candle
+White Carpet
+minecraft:white_carpet
+White Concrete
+minecraft:white_concrete
+White Concrete Powder
+minecraft:white_concrete_powder
+White Dye
+minecraft:white_dye
+White Glazed Terracotta
+minecraft:white_glazed_terracotta
+White Shulker Box
+minecraft:white_shulker_box
+White Stained Glass
+minecraft:white_stained_glass
+White Stained Glass Pane
+minecraft:white_stained_glass_pane
+White Terracotta
+minecraft:white_terracotta
+White Tulip
+minecraft:white_tulip
+White Wool
+minecraft:white_wool
+Wither Rose
+minecraft:wither_rose
+Wither Skeleton Skull
+minecraft:wither_skeleton_skull
+Wooden Axe
+minecraft:wooden_axe
+Wooden Hoe
+minecraft:wooden_hoe
+Wooden Pickaxe
+minecraft:wooden_pickaxe
+Wooden Shovel
+minecraft:wooden_shovel
+Wooden Sword
+minecraft:wooden_sword
+Written Book
+minecraft:written_book
+Yellow Banner
+minecraft:yellow_banner
+Yellow Bed
+minecraft:yellow_bed
+Yellow Candle
+minecraft:yellow_candle
+Yellow Carpet
+minecraft:yellow_carpet
+Yellow Concrete
+minecraft:yellow_concrete
+Yellow Concrete Powder
+minecraft:yellow_concrete_powder
+Yellow Dye
+minecraft:yellow_dye
+Yellow Glazed Terracotta
+minecraft:yellow_glazed_terracotta
+Yellow Shulker Box
+minecraft:yellow_shulker_box
+Yellow Stained Glass
+minecraft:yellow_stained_glass
+Yellow Stained Glass Pane
+minecraft:yellow_stained_glass_pane
+Yellow Terracotta
+minecraft:yellow_terracotta
+Yellow Wool
+minecraft:yellow_wool
+Zombie Head
+minecraft:zombie_head
