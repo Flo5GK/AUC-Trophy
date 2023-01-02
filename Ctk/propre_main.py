@@ -54,10 +54,6 @@ class App(customtkinter.CTk):
         self.command_text.pack(pady=5,before=self.button)
 
 def gen_commande():
-    print("oui")
-    print(app.item_entry.get())
-    print(app.lore_entry.get())
-    print(app.name_entry.get())
     if search(app.item_entry.get()):
         commande = translate(app.item_entry.get(),app.name_entry.get(),app.lore_entry.get())
         create_obj()
@@ -115,6 +111,12 @@ def translate(item:str, name:str, lore:list):
     commande = f"give @p " + item + "{display:{Name:'[{\"text\":\"" + name +"\",\"italic\":false,\"color\":\"gold\",\"underlined\":true}]',Lore:['[{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"" + name +"\",\"italic\":false,\"color\":\"gray\"},{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"Récompense d\\'événement :\",\"italic\":false,\"color\":\"gold\"}]',"
     
     for i in lore:
+        if "\\" in i :
+            i = i.replace('\\','\\\\\\\\')
+        if '"' in i:
+            i = i.replace('"','\\\\"')
+        if "'" in i:
+            i = i.replace("'","\\'")
         commande += "'[{\"text\":\"" +i+"\",\"italic\":true,\"color\":\"dark_purple\"}]',"
     commande += "'[{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"Objet Importable\",\"italic\":false,\"color\":\"gold\"},{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"⚠ Ne pas utiliser ⚠ \",\"italic\":false,\"color\":\"red\"},{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]']},Enchantments:[{id:infinity,lvl:1}],HideFlags:1} 1"
 
