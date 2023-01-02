@@ -159,4 +159,5 @@ def get_historique():
 
 
 app = App()
+app.iconbitmap('AUC.ico')
 app.mainloop()
