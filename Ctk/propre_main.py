@@ -45,7 +45,7 @@ class App(customtkinter.CTk):
         self.item_entry.pack(pady=5)
         self.command_text = customtkinter.CTkTextbox(master=self.frame_right, width=500)
         self.command_text.pack(pady=5)
-        self.button = customtkinter.CTkButton(master=self.frame_right, text="CTkButton", command=gen_commande)
+        self.button = customtkinter.CTkButton(master=self.frame_right, text="Générer la commande", command=gen_commande)
         self.button.pack(pady=5)
         self.notif = customtkinter.CTkLabel(master=self.frame_right, text="", text_font=("Roboto Medium", -16), text_color=("green"))
         self.notif.pack(pady=5)
